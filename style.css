@@ -119,9 +119,19 @@ h3 {font-size: var(--fs-h3)}
     border: 0;
     cursor: pointer;
     position: absolute;
-    right: 1em;
-    top:1em;
+    right: 2em;
+    top:2em;
+    z-index: 1000;
 }
+.nav-open .nav{
+    transform: translateX(0);
+}
+
+.nav-open .nav-toggle{
+    position: fixed;
+}
+
+
 .hamburger{
 
     display: block;
