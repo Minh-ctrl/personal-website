@@ -196,7 +196,7 @@ h3 {font-size: var(--fs-h3)}
 /*What I Do*/
 .what-i-do{
     background-color: var(--clr-dark);
-    color: var(--clr-dark);
+    color: var(--clr-light);
     background-image: url(https://cdn.discordapp.com/attachments/558914341987024898/819576609286782976/DSC06760-9.jpg);
     background-size: cover;
     text-align: center;
