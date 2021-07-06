@@ -277,7 +277,9 @@ h3 {font-size: var(--fs-h3)}
     font-size: var(--fs-h3);
     font-weight: var(--fs-bold);
 }
-
+.footer-p{
+    color: var(--clr-dark);
+}
 .footer__link:hover{
     text-decoration: underline;
 }
